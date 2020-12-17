@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "sample-run":"echo \"Sample run\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
